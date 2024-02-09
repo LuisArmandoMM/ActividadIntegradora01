@@ -1,0 +1,14 @@
+.tabla-proyecto {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .tabla-proyecto th, .tabla-proyecto td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  .tabla-proyecto th {
+    background-color: #f2f2f2;
+  }
